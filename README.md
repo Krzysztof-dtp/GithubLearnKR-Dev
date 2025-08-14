@@ -3,7 +3,7 @@
 **Repozytorium demonstracyjne do nauki integracji GitHub z Visual Studio 2022 Preview.**  
 Zawiera przykładowe projekty, testy i konfiguracje Git.
 
-## 🔧 Cel projektu
+## 🎯 Cel projektu
 
 Celem repozytorium jest pokazanie, jak efektywnie korzystać z GitHub w połączeniu z Visual Studio 2022 Preview, w tym:
 - Tworzenie i zarządzanie repozytoriami
@@ -11,15 +11,13 @@ Celem repozytorium jest pokazanie, jak efektywnie korzystać z GitHub w połącz
 - Praca z gałęziami i commitami
 - Testowanie integracji GitHub z IDE
 
-## 📁 Zawartość
+## 📦 Zawartość
 
 - Przykładowe projekty w C# / .NET
 - Skonfigurowane pliki `.gitignore` i `LICENSE`
 - README z opisem repozytorium
 - Testy integracyjne
 
-## 📜 Licencja
+## 📄 Licencja
 
 Projekt udostępniony na licencji MIT.
-
----
